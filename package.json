@@ -1,0 +1,19 @@
+{
+  "name": "dds",
+  "version": "1.0.0",
+  "description": "Coding exercise [drone delivery service](Drone%20Delivery%20Programming%20Challenge.pdf) for WolfePak.",
+  "main": "dron-scheduler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McDurby/dds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McDurby/dds/issues"
+  },
+  "homepage": "https://github.com/McDurby/dds#readme"
+}
